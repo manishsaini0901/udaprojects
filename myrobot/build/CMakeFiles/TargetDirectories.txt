@@ -1,0 +1,3 @@
+/home/robot/project1uda/myrobot/build/CMakeFiles/edit_cache.dir
+/home/robot/project1uda/myrobot/build/CMakeFiles/rebuild_cache.dir
+/home/robot/project1uda/myrobot/build/CMakeFiles/hello.dir
